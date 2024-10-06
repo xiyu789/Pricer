@@ -22,7 +22,26 @@ tax_rates = {
     "NGN": 32,  # Nigeria
     "KES": 30,  # Kenya
     "INR": 34,  # India (ACPC)
-    "CNY": 25   # China (ACPC)
+    "CNY": 25,  # China (ACPC)
+    "GRD": 24,  # Greece
+    "LUX": 22,  # Luxembourg
+    "PTE": 20,  # Portugal
+    "ESP": 28,  # Spain
+    "BEL": 25,  # Belgium
+    "FIN": 30,  # Finland
+    "IRL": 27,  # Ireland
+    "ITA": 29,  # Italy
+    "VND": 25,  # Vietnam
+    "THB": 15,  # Thailand
+    "TWD": 20,  # Taiwan
+    "LKR": 18,  # Sri Lanka
+    "PHP": 32,  # Philippines
+    "PKR": 17,  # Pakistan
+    "NZD": 26,  # New Zealand
+    "MYR": 25,  # Malaysia
+    "JPY": 15,  # Japan
+    "IDR": 22,  # Indonesia
+    "BDT": 20   # Bangladesh
 }
 
 
