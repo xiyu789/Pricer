@@ -1,47 +1,47 @@
 tax_rates = {
-    "USD": 35,  # United States
-    "CAD": 30,  # Canada
-    "EUR": 25,  # Eurozone, assumed for multiple EMEA countries
-    "GBP": 28,  # United Kingdom
-    "CHF": 22,  # Switzerland
-    "SEK": 30,  # Sweden
-    "NOK": 27,  # Norway
-    "DKK": 25,  # Denmark
-    "ZAR": 30,  # South Africa
-    "EGP": 20,  # Egypt
-    "SAR": 5,   # Saudi Arabia
-    "AED": 5,   # United Arab Emirates
-    "ILS": 23,  # Israel
-    "RUB": 20,  # Russia
-    "TRY": 35,  # Turkey
-    "PLN": 19,  # Poland
-    "CZK": 18,  # Czech Republic
-    "HUF": 21,  # Hungary
-    "RON": 16,  # Romania
-    "BGN": 10,  # Bulgaria
-    "NGN": 32,  # Nigeria
-    "KES": 30,  # Kenya
-    "INR": 34,  # India (ACPC)
-    "CNY": 25,  # China (ACPC)
-    "GRD": 24,  # Greece
-    "LUX": 22,  # Luxembourg
-    "PTE": 20,  # Portugal
-    "ESP": 28,  # Spain
-    "BEL": 25,  # Belgium
-    "FIN": 30,  # Finland
-    "IRL": 27,  # Ireland
-    "ITA": 29,  # Italy
-    "VND": 25,  # Vietnam
-    "THB": 15,  # Thailand
-    "TWD": 20,  # Taiwan
-    "LKR": 18,  # Sri Lanka
-    "PHP": 32,  # Philippines
-    "PKR": 17,  # Pakistan
-    "NZD": 26,  # New Zealand
-    "MYR": 25,  # Malaysia
-    "JPY": 15,  # Japan
-    "IDR": 22,  # Indonesia
-    "BDT": 20   # Bangladesh
+    "US": 35,  # United States
+    "CA": 30,  # Canada
+    "EU": 25,  # Eurozone, assumed for multiple EMEA countries
+    "GB": 28,  # United Kingdom
+    "CH": 22,  # Switzerland
+    "SE": 30,  # Sweden
+    "NO": 27,  # Norway
+    "DK": 25,  # Denmark
+    "ZA": 30,  # South Africa
+    "EG": 20,  # Egypt
+    "SA": 5,   # Saudi Arabia
+    "AE": 5,   # United Arab Emirates
+    "IL": 23,  # Israel
+    "RU": 20,  # Russia
+    "TR": 35,  # Turkey
+    "PL": 19,  # Poland
+    "CZ": 18,  # Czech Republic
+    "HU": 21,  # Hungary
+    "RO": 16,  # Romania
+    "BG": 10,  # Bulgaria
+    "NG": 32,  # Nigeria
+    "KE": 30,  # Kenya
+    "IN": 34,  # India
+    "CN": 25,  # China
+    "GR": 24,  # Greece
+    "LU": 22,  # Luxembourg
+    "PT": 20,  # Portugal
+    "ES": 28,  # Spain
+    "BE": 25,  # Belgium
+    "FI": 30,  # Finland
+    "IE": 27,  # Ireland
+    "IT": 29,  # Italy
+    "VN": 25,  # Vietnam
+    "TH": 15,  # Thailand
+    "TW": 20,  # Taiwan
+    "LK": 18,  # Sri Lanka
+    "PH": 32,  # Philippines
+    "PK": 17,  # Pakistan
+    "NZ": 26,  # New Zealand
+    "MY": 25,  # Malaysia
+    "JP": 15,  # Japan
+    "ID": 22,  # Indonesia
+    "BD": 20   # Bangladesh
 }
 
 
